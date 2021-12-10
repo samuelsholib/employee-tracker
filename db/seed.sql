@@ -11,14 +11,14 @@ VALUE ("Marketing");
 
 -- ROLE SEEDS -------
 INSERT INTO role (id, title, salary, department_id)
-Values(0011, "CEO", 200000, 1)
+Values(0011, "CEO", 200000, 1);
 INSERT INTO role (id, title, salary, department_id)
 VALUE (0021, "Senior Engineer", 150000, 2);
 INSERT INTO role (id, title, salary, department_id)
 VALUE (0031, "Accountant", 120000, 3);
 INSERT INTO role (id, title, salary, department_id)
 VALUE (0012, "Admin Assistant", 120000, 1);
-INSERT INTO role (id title, salary, department_id)
+INSERT INTO role (id, title, salary, department_id)
 VALUE (0032, "Salesperson", 80000, 3);
 INSERT INTO role (id, title, salary, department_id)
 VALUE (0022, "Software Engineer", 110000, 2);
