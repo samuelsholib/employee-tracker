@@ -1,5 +1,6 @@
 # employee-tracker
-It is an employee tracker app built using node packages; mysql2 and express.js.
+Employee-tracker is a A command-line interface applicaiton for building and maintaining companies employee data base.
+It is built using node packages such; mysql2, inquirer, and express.js.
 
 ## User Story
 ```md
